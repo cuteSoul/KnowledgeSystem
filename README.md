@@ -1,2 +1,2 @@
-# KnowledgeSystem
+# KnowledgeSystem（知识体系）
 本项目用于存放个人学习搭建的知识体系内容，包括技术文档、学习笔记、项目代码等。
