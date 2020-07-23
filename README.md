@@ -3,7 +3,7 @@
 
 本项目用于存放个人学习搭建的知识体系内容，包括技术文档、学习笔记、项目代码等。
 
-本人的公众号： Halo7lolo
+欢迎关注我的公众号： Halo7lolo
 
 ![image-20200721152330381](https://cdn.jsdelivr.net/gh/cuteSoul/imgbed/img/image-20200721152330381.png)
 
