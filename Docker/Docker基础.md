@@ -289,6 +289,7 @@ OPTIONS说明：
   containerPort
 ```
 
+```
 `docker ps`				  列出当前所有正在运行的容器
 `docker ps -a`			列出所有的容器
 `docker ps -l`			列出最近创建的容器
@@ -320,6 +321,7 @@ OPTIONS说明：
 `docker exec 容器ID`									进到容器内
 `docker cp 容器ID:容器内的文件路径 宿主机路径`					从容器内拷贝文件到宿主机
 如：`docker cp f9e29e8455a5:/tmp/yum.log  /root`
+```
 
 ### Docker命令小结
 
